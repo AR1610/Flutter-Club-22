@@ -27,7 +27,6 @@ class MyApp extends StatelessWidget {
             Shadow(color: Colors.black, offset: Offset(2,1),blurRadius: 20)
               ]),),
         ),
-
       ),
 
        );
